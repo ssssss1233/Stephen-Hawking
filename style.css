@@ -1,0 +1,49 @@
+.intro{
+    background: rgb(58,180,76);
+background: linear-gradient(180deg, rgba(58,180,76,1) 10%, rgba(252,176,69,1) 90%);
+}
+
+h1{
+    font-size: 45px;
+    width: auto;
+}
+
+body{
+    background-color: black;
+}
+
+h4{
+    background-color: aquamarine;
+    line-height: 2;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+#info, .fact{
+    font-size: 25px;
+}
+
+.next{
+    background: rgb(198,221,247);
+background: radial-gradient(circle, rgba(198,221,247,1) 30%, rgba(255,181,213,1) 70%);
+}
+
+#text{
+    font-size: 20px;
+}
+
+#uhoh{
+    background: rgb(10,106,108);
+background: linear-gradient(0deg, rgba(10,106,108,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+#raf{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+
+color: rgb(218, 0, 0);
+}
